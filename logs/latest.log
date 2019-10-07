@@ -1,0 +1,212 @@
+[13:10:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:10:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:10:06] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:10:06] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:10:07] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[13:10:07] [Server thread/INFO]: Loading properties
+[13:10:07] [Server thread/INFO]: Default game type: SURVIVAL
+[13:10:07] [Server thread/INFO]: Generating keypair
+[13:10:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:10:07] [Server thread/INFO]: Using epoll channel type
+[13:10:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:10:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:10:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:10:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:10:07] [Server thread/INFO]: Preparing level "world"
+[13:10:07] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:10:08] [Server thread/INFO]: Loaded 6 recipes
+[13:10:09] [Server thread/INFO]: Loaded 811 advancements
+[13:10:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:10:13] [Server thread/INFO]: Preparing spawn area: 0%
+[13:10:13] [Server thread/INFO]: Preparing spawn area: 0%
+[13:10:13] [Server thread/INFO]: Time elapsed: 984 ms
+[13:10:13] [Server thread/INFO]: Done (6.245s)! For help, type "help"
+[13:12:41] [Server thread/INFO]: MadVesayt[/0:0:0:0:0:0:0:1%0:44170] logged in with entity id 453 at (123.76249998807907, 11.0, -84.93463787764216)
+[13:12:41] [Server thread/INFO]: MadVesayt joined the game
+[13:15:01] [Server thread/INFO]: dinnymate[/0:0:0:0:0:0:0:1%0:44228] logged in with entity id 941 at (120.72186059730859, 11.0, -77.71600648984553)
+[13:15:01] [Server thread/INFO]: dinnymate joined the game
+[13:17:43] [Server thread/WARN]: Fetching packet for removed entity atx['Cactus'/1768, l='world', x=93.22, y=16.94, z=-51.87]
+[13:18:11] [Server thread/INFO]: szefy[/0:0:0:0:0:0:0:1%0:44296] logged in with entity id 1961 at (122.5, 68.0, -75.5)
+[13:18:11] [Server thread/INFO]: szefy joined the game
+[13:18:11] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/1957, l='world', x=93.13, y=15.00, z=-50.88]
+[13:18:50] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2271, l='world', x=14.20, y=12.00, z=-63.77]
+[13:19:19] [Server thread/INFO]: [dinnymate: Teleported szefy to dinnymate]
+[13:20:32] [Server thread/INFO]: szefy has made the advancement [Stone Age]
+[13:20:46] [Server thread/INFO]: szefy has made the advancement [Acquire Hardware]
+[13:21:35] [Server thread/INFO]: szefy has made the advancement [Suit Up]
+[13:21:51] [Server thread/INFO]: szefy has made the advancement [Isn't It Iron Pick]
+[13:27:38] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/5872, l='world', x=93.54, y=15.00, z=-50.14]
+[13:27:46] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/5935, l='world', x=93.88, y=15.00, z=-50.13]
+[13:27:51] [Server thread/INFO]: Humbi[/0:0:0:0:0:0:0:1%0:44406] logged in with entity id 5965 at (127.5, 68.0, -86.5)
+[13:27:51] [Server thread/INFO]: Humbi joined the game
+[13:27:51] [Server thread/WARN]: Fetching packet for removed entity atx['Cactus'/5963, l='world', x=93.35, y=16.94, z=-51.80]
+[13:28:25] [Server thread/INFO]: [dinnymate: Teleported Humbi to dinnymate]
+[13:28:25] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/6175, l='world', x=93.13, y=15.00, z=-50.14]
+[13:28:37] [Server thread/INFO]: Humbi has made the advancement [Stone Age]
+[13:30:02] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/6793, l='world', x=93.13, y=15.83, z=-50.78]
+[13:30:28] [Server thread/INFO]: MadVesayt lost connection: Disconnected
+[13:30:28] [Server thread/INFO]: MadVesayt left the game
+[13:30:28] [Server thread/WARN]: handleDisconnection() called twice
+[13:30:52] [Server thread/INFO]: <dinnymate> valaki csináljon discordot
+[13:30:52] [Server thread/INFO]: Humbi lost connection: Timed out
+[13:30:52] [Server thread/INFO]: Humbi left the game
+[13:30:57] [Server thread/INFO]: <dinnymate> nem hallok senkit
+[13:34:35] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/8194, l='world', x=93.13, y=15.00, z=-50.75]
+[13:56:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/15793, l='world', x=80.20, y=11.00, z=-121.99]
+[13:56:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/15793, l='world', x=80.20, y=11.00, z=-121.99]
+[13:58:45] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/16626, l='world', x=93.27, y=15.94, z=-50.40]
+[13:59:41] [Server thread/INFO]: somnoveny[/0:0:0:0:0:0:0:1%0:44774] logged in with entity id 16942 at (122.60558495695753, 11.0, -78.8488579950692)
+[13:59:41] [Server thread/INFO]: somnoveny joined the game
+[14:02:27] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/18016, l='world', x=93.13, y=15.00, z=-50.54]
+[14:02:37] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/18080, l='world', x=93.87, y=15.00, z=-50.96]
+[14:04:44] [Server thread/INFO]: [dinnymate: Kicked szefy: Kicked by an operator]
+[14:04:44] [Server thread/INFO]: szefy lost connection: Kicked by an operator
+[14:04:44] [Server thread/INFO]: szefy left the game
+[14:08:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/21654, l='world', x=80.80, y=11.00, z=-124.12]
+[14:10:16] [Server thread/WARN]: dinnymate moved too quickly! 0.15618222032092888,-0.4524514780759894,10.014241053090956
+[14:10:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2314ms or 46 ticks behind
+[14:15:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[14:15:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/26326, l='world', x=80.20, y=11.00, z=-125.28]
+[14:20:20] [Server thread/WARN]: dinnymate moved too quickly! -1.6867605863256898,0.49520087700591375,-10.024007884437637
+[14:20:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
+[14:25:23] [Server thread/WARN]: dinnymate moved too quickly! 3.859991215436864,1.1661092609382155,9.460032215827752
+[14:25:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2705ms or 54 ticks behind
+[14:29:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35900, l='world', x=80.80, y=19.00, z=-95.71]
+[14:30:13] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/36492, l='world', x=80.20, y=9.00, z=-128.80]
+[14:30:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[14:33:10] [Server thread/INFO]: dinnymate lost connection: Timed out
+[14:33:10] [Server thread/INFO]: dinnymate left the game
+[14:33:56] [Server thread/INFO]: dinnymate[/0:0:0:0:0:0:0:1%0:45108] logged in with entity id 39251 at (125.16584386740453, 11.875, -118.4602161930353)
+[14:33:56] [Server thread/INFO]: dinnymate joined the game
+[14:34:08] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/39326, l='world', x=93.88, y=15.00, z=-50.14]
+[14:34:15] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/39372, l='world', x=93.55, y=15.94, z=-50.14]
+[14:34:20] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/39400, l='world', x=93.13, y=15.94, z=-50.22]
+[14:35:11] [Server thread/INFO]: dinnymate lost connection: Timed out
+[14:35:11] [Server thread/INFO]: dinnymate left the game
+[14:37:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/40501, l='world', x=80.80, y=11.00, z=-121.43]
+[14:38:47] [Server thread/INFO]: <somnoveny> a dinnyr büdös
+[14:39:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/41044, l='world', x=80.80, y=11.00, z=-122.63]
+[14:40:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/41322, l='world', x=80.80, y=10.00, z=-126.20]
+[14:44:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/42688, l='world', x=80.20, y=9.00, z=-128.80]
+[14:44:31] [Server thread/INFO]: somnoveny lost connection: Timed out
+[14:44:31] [Server thread/INFO]: somnoveny left the game
+[15:07:49] [Server thread/INFO]: dinnymate[/0:0:0:0:0:0:0:1%0:45436] logged in with entity id 42766 at (123.27584771180484, 11.0, -82.87335842864394)
+[15:07:49] [Server thread/INFO]: dinnymate joined the game
+[15:15:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/45162, l='world', x=80.80, y=9.00, z=-127.96]
+[15:16:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/45410, l='world', x=80.20, y=9.00, z=-127.20]
+[15:23:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/47688, l='world', x=80.20, y=10.00, z=-126.72]
+[15:26:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/48856, l='world', x=80.80, y=11.00, z=-125.94]
+[15:27:40] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/49227, l='world', x=80.20, y=9.00, z=-128.80]
+[15:29:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/49796, l='world', x=88.20, y=12.00, z=-84.80]
+[15:33:48] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/51234, l='world', x=88.20, y=12.00, z=-84.80]
+[15:35:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/51732, l='world', x=88.20, y=12.00, z=-84.20]
+[15:36:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/52151, l='world', x=80.20, y=11.00, z=-124.86]
+[15:36:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/52226, l='world', x=88.20, y=12.00, z=-84.80]
+[15:41:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/53651, l='world', x=80.20, y=11.00, z=-123.11]
+[15:42:55] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/54221, l='world', x=80.35, y=17.00, z=-96.63]
+[15:45:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/55095, l='world', x=80.80, y=17.00, z=-96.38]
+[15:50:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/56663, l='world', x=80.20, y=9.00, z=-128.80]
+[15:50:40] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/56728, l='world', x=80.20, y=11.00, z=-125.69]
+[15:56:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/58705, l='world', x=80.20, y=9.00, z=-128.80]
+[15:59:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/59491, l='world', x=80.20, y=9.00, z=-127.95]
+[15:59:13] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/59510, l='world', x=80.20, y=9.00, z=-128.80]
+[15:59:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/59633, l='world', x=80.20, y=9.00, z=-128.08]
+[16:00:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/59944, l='world', x=80.71, y=11.00, z=-124.10]
+[16:01:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/60213, l='world', x=88.80, y=12.00, z=-84.80]
+[16:03:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/60860, l='world', x=88.20, y=12.00, z=-84.80]
+[16:16:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/65029, l='world', x=80.80, y=9.00, z=-128.80]
+[16:17:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/65350, l='world', x=88.20, y=12.00, z=-84.80]
+[16:19:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/65970, l='world', x=88.80, y=12.00, z=-84.20]
+[16:27:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/68475, l='world', x=88.20, y=12.00, z=-84.20]
+[16:27:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/68665, l='world', x=80.80, y=11.00, z=-124.54]
+[16:31:20] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69838, l='world', x=88.20, y=12.00, z=-84.80]
+[16:31:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/70011, l='world', x=88.20, y=12.00, z=-84.80]
+[16:36:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/71392, l='world', x=80.20, y=9.00, z=-127.20]
+[16:39:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72535, l='world', x=88.80, y=12.00, z=-84.80]
+[16:48:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/75343, l='world', x=88.20, y=12.00, z=-84.80]
+[16:48:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/75416, l='world', x=88.20, y=12.00, z=-84.20]
+[16:49:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/75664, l='world', x=88.20, y=12.00, z=-84.20]
+[16:49:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/75801, l='world', x=88.20, y=12.00, z=-84.80]
+[16:53:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/76935, l='world', x=80.80, y=9.00, z=-127.20]
+[16:55:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/77590, l='world', x=80.80, y=9.00, z=-128.40]
+[17:00:43] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79321, l='world', x=88.20, y=12.00, z=-84.80]
+[17:08:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/81815, l='world', x=80.80, y=11.00, z=-125.44]
+[17:09:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/82004, l='world', x=80.20, y=9.00, z=-127.20]
+[17:11:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/82773, l='world', x=88.20, y=12.00, z=-84.80]
+[17:15:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/83866, l='world', x=88.20, y=12.00, z=-84.80]
+[17:15:40] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/84102, l='world', x=80.20, y=10.00, z=-126.20]
+[17:17:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/84731, l='world', x=88.80, y=12.00, z=-84.80]
+[17:19:49] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/85426, l='world', x=88.20, y=12.00, z=-84.80]
+[17:21:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/86042, l='world', x=80.80, y=11.00, z=-122.63]
+[17:23:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/86614, l='world', x=80.62, y=10.00, z=-126.65]
+[17:25:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/87202, l='world', x=88.20, y=12.00, z=-84.80]
+[17:26:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/87457, l='world', x=88.20, y=12.00, z=-84.80]
+[17:28:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/88077, l='world', x=88.20, y=12.00, z=-84.80]
+[17:33:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/89793, l='world', x=80.52, y=19.00, z=-95.76]
+[17:36:13] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/90668, l='world', x=88.20, y=12.00, z=-84.80]
+[17:38:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/91433, l='world', x=88.20, y=12.00, z=-84.80]
+[17:39:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/91637, l='world', x=80.20, y=9.00, z=-128.20]
+[17:44:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/93231, l='world', x=88.20, y=12.00, z=-84.20]
+[17:46:43] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/94099, l='world', x=80.52, y=19.00, z=-95.76]
+[17:47:06] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/94237, l='world', x=88.20, y=12.00, z=-84.80]
+[17:51:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/95566, l='world', x=88.20, y=12.00, z=-84.80]
+[17:54:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/96527, l='world', x=88.80, y=12.00, z=-84.80]
+[17:57:05] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/97471, l='world', x=88.20, y=12.00, z=-84.20]
+[18:00:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/98447, l='world', x=88.20, y=12.00, z=-84.20]
+[18:02:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/99264, l='world', x=88.20, y=12.00, z=-84.80]
+[18:02:48] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/99321, l='world', x=88.20, y=12.00, z=-84.80]
+[18:06:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/100418, l='world', x=88.20, y=12.00, z=-84.80]
+[18:06:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/100524, l='world', x=88.20, y=12.00, z=-84.80]
+[18:12:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[18:17:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/104077, l='world', x=88.80, y=12.00, z=-84.80]
+[18:18:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/104262, l='world', x=80.80, y=9.00, z=-128.38]
+[18:18:48] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/104453, l='world', x=80.20, y=9.00, z=-127.66]
+[18:23:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/105903, l='world', x=88.20, y=12.00, z=-84.80]
+[18:29:57] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/108084, l='world', x=80.80, y=11.00, z=-125.01]
+[18:30:20] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/108182, l='world', x=88.20, y=12.00, z=-84.80]
+[18:30:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/108264, l='world', x=80.80, y=11.00, z=-121.43]
+[18:30:50] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/108332, l='world', x=80.20, y=11.00, z=-125.69]
+[18:31:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/108610, l='world', x=88.20, y=12.00, z=-84.80]
+[18:32:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/108906, l='world', x=80.20, y=11.00, z=-123.11]
+[18:35:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/109818, l='world', x=88.20, y=12.00, z=-84.80]
+[18:37:42] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/110548, l='world', x=88.20, y=12.00, z=-84.80]
+[18:44:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/112593, l='world', x=88.20, y=12.00, z=-84.80]
+[18:49:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/114358, l='world', x=88.20, y=12.00, z=-84.80]
+[18:52:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/115320, l='world', x=88.20, y=12.00, z=-84.80]
+[19:03:48] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/118868, l='world', x=80.80, y=9.00, z=-127.65]
+[19:10:54] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/121162, l='world', x=88.20, y=12.00, z=-84.80]
+[19:23:55] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/125313, l='world', x=80.20, y=9.00, z=-127.98]
+[19:25:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/125739, l='world', x=88.20, y=12.00, z=-84.80]
+[19:26:08] [Server thread/INFO]: dinnymate lost connection: Disconnected
+[19:26:08] [Server thread/INFO]: dinnymate left the game
+[19:51:52] [Server thread/INFO]: dinnymate[/0:0:0:0:0:0:0:1%0:38048] logged in with entity id 126074 at (91.51315627396443, 11.0, -66.69999998807907)
+[19:51:53] [Server thread/INFO]: dinnymate joined the game
+[19:52:38] [Server thread/INFO]: dinnymate lost connection: Timed out
+[19:52:38] [Server thread/INFO]: dinnymate left the game
+[19:52:38] [Server thread/WARN]: handleDisconnection() called twice
+[20:46:17] [Server thread/INFO]: Stopping server
+[20:46:17] [Server thread/INFO]: Saving players
+[20:46:17] [Server thread/INFO]: Saving worlds
+[20:46:17] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:46:17] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_222]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_222]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_222]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_222]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_222]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_222]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_222]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_222]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_222]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_222]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_222]
+	at uk$2.run(SourceFile:109) [server.jar:?]
+[20:46:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:46:17] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:46:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
