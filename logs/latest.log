@@ -1,56 +1,71 @@
-[17:19:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:19:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:19:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:19:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:19:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:19:49] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[17:19:49] [Server thread/INFO]: Loading properties
-[17:19:49] [Server thread/INFO]: Default game type: SURVIVAL
-[17:19:49] [Server thread/INFO]: Generating keypair
-[17:19:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:19:49] [Server thread/INFO]: Using epoll channel type
-[17:19:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:19:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:19:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:19:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:19:49] [Server thread/INFO]: Preparing level "world"
-[17:19:49] [Server thread/INFO]: Reloading ResourceManager: Default
-[17:19:50] [Server thread/INFO]: Loaded 6 recipes
-[17:19:50] [Server thread/INFO]: Loaded 811 advancements
-[17:19:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:19:52] [Server thread/INFO]: Preparing spawn area: 0%
-[17:19:52] [Server thread/INFO]: Preparing spawn area: 0%
-[17:19:52] [Server thread/INFO]: Preparing spawn area: 0%
-[17:19:54] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[17:19:54] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[17:19:54] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[17:19:54] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[17:19:54] [Server thread/INFO]: Time elapsed: 3402 ms
-[17:19:54] [Server thread/INFO]: Done (4.945s)! For help, type "help"
-[17:21:40] [Server thread/INFO]: somnoveny[/127.0.0.1:40670] logged in with entity id 581 at (122.89790508894646, 11.0, -88.87882599053425)
-[17:21:40] [Server thread/INFO]: somnoveny joined the game
-[17:22:09] [Server thread/INFO]: dinnymate[/10.42.0.96:40978] logged in with entity id 735 at (95.10730536538698, 12.0, -84.69999998807907)
-[17:22:09] [Server thread/INFO]: dinnymate joined the game
-[17:23:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1248, l='world', x=88.20, y=12.00, z=-84.80]
-[17:23:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1248, l='world', x=88.20, y=12.00, z=-84.80]
-[17:25:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2161, l='world', x=88.20, y=12.00, z=-84.80]
-[17:30:55] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/4025, l='world', x=93.88, y=15.00, z=-50.14]
-[17:31:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/4110, l='world', x=88.20, y=12.00, z=-84.80]
-[17:31:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/4110, l='world', x=88.20, y=12.00, z=-84.80]
-[17:31:13] [Server thread/INFO]: dinnymate lost connection: Disconnected
-[17:31:13] [Server thread/INFO]: dinnymate left the game
-[17:31:23] [Server thread/INFO]: [somnoveny: Stopping the server]
-[17:31:23] [Server thread/INFO]: Stopping server
-[17:31:23] [Server thread/INFO]: Saving players
-[17:31:25] [Server thread/INFO]: somnoveny lost connection: Internal Exception: java.lang.StackOverflowError
-[17:31:25] [Server thread/INFO]: somnoveny left the game
-[17:31:25] [Server thread/INFO]: Saving worlds
-[17:31:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[17:31:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:31:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[17:31:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:31:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[17:31:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:31:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:31:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:31:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:28:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:28:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:28:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:28:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:28:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:28:50] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[20:28:50] [Server thread/INFO]: Loading properties
+[20:28:50] [Server thread/INFO]: Default game type: SURVIVAL
+[20:28:50] [Server thread/INFO]: Generating keypair
+[20:28:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:28:51] [Server thread/INFO]: Using epoll channel type
+[20:28:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:28:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:28:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:28:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:28:51] [Server thread/INFO]: Preparing level "world"
+[20:28:51] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:28:52] [Server thread/INFO]: Loaded 6 recipes
+[20:28:52] [Server thread/INFO]: Loaded 811 advancements
+[20:28:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:28:55] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:55] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:55] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:55] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:55] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:57] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:28:57] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[20:28:57] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[20:28:57] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:28:57] [Server thread/INFO]: Preparing spawn area: 48%
+[20:28:57] [Server thread/INFO]: Time elapsed: 4734 ms
+[20:28:57] [Server thread/INFO]: Done (6.349s)! For help, type "help"
+[20:31:11] [Server thread/INFO]: dinnymate[/0:0:0:0:0:0:0:1%0:35266] logged in with entity id 577 at (92.6999999880791, 11.0, -67.29945175155936)
+[20:31:11] [Server thread/INFO]: dinnymate joined the game
+[20:32:13] [Server thread/INFO]: MadVesayt[/0:0:0:0:0:0:0:1%0:35282] logged in with entity id 891 at (112.25371278284834, 11.0, -78.22960424170672)
+[20:32:13] [Server thread/INFO]: MadVesayt joined the game
+[20:40:58] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/4568, l='world', x=93.36, y=15.00, z=-50.22]
+[20:41:47] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/4823, l='world', x=93.63, y=15.00, z=-51.00]
+[20:43:17] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5316, l='world', x=80.80, y=9.00, z=-128.41]
+[20:43:17] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5316, l='world', x=80.80, y=9.00, z=-128.41]
+[20:46:28] [Server thread/WARN]: Fetching packet for removed entity atx['Stone'/6599, l='world', x=55.00, y=20.37, z=-21.12]
+[20:48:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7198, l='world', x=80.20, y=11.00, z=-123.39]
+[20:48:37] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/7415, l='world', x=93.13, y=15.00, z=-50.14]
+[20:50:45] [Server thread/WARN]: Fetching packet for removed entity atx['Iron Ore'/8239, l='world', x=29.50, y=28.00, z=-32.88]
+[20:50:53] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/8303, l='world', x=93.13, y=15.00, z=-50.50]
+[20:51:57] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/8742, l='world', x=93.51, y=15.00, z=-50.88]
+[20:53:13] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/9289, l='world', x=93.52, y=15.00, z=-50.14]
+[20:53:59] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/9616, l='world', x=80.20, y=11.00, z=-125.24]
+[20:56:18] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/10613, l='world', x=93.20, y=15.00, z=-50.21]
+[20:56:35] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/10801, l='world', x=93.13, y=15.00, z=-50.14]
+[20:57:39] [Server thread/INFO]: dinnymate was burnt to a crisp whilst fighting Zombie
+[21:00:03] [Server thread/INFO]: dinnymate was slain by Spider
+[21:01:37] [Server thread/INFO]: [dinnymate: Set the weather to clear]
+[21:12:49] [Server thread/INFO]: [dinnymate: Set the weather to clear]
+[21:19:30] [Server thread/WARN]: Horse moved wrongly!
+[21:19:30] [Server thread/WARN]: Horse moved wrongly!
+[21:19:31] [Server thread/WARN]: Horse moved wrongly!
+[21:20:38] [Server thread/WARN]: dinnymate was kicked for floating too long!
+[21:20:38] [Server thread/INFO]: dinnymate lost connection: Disconnected
+[21:20:38] [Server thread/INFO]: dinnymate left the game
+[21:20:38] [Server thread/WARN]: handleDisconnection() called twice
+[21:20:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/21159, l='world', x=80.80, y=9.00, z=-127.20]
+[21:21:01] [Server thread/INFO]: dinnymate[/0:0:0:0:0:0:0:1%0:35650] logged in with entity id 21216 at (122.52843690037007, 12.249187078744683, -93.32704303138796)
+[21:21:01] [Server thread/INFO]: dinnymate joined the game
+[21:22:29] [Server thread/WARN]: MadVesayt moved too quickly! -10.23574554106358,0.0,-0.11307290204700848
+[21:22:29] [Server thread/WARN]: dinnymate moved too quickly! -1.308498493053179,0.7531999805212024,-10.131349207266766
+[21:23:08] [Server thread/WARN]: dinnymate moved too quickly! 1.4501842422920816,-1.2949999868869781,9.982749623097192
+[21:23:29] [Server thread/WARN]: dinnymate moved too quickly! -1.0573134874379804,0.3017592750642386,10.185332401530474
+[21:27:04] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/24108, l='world', x=93.13, y=15.00, z=-50.33]
+[21:28:34] [Server thread/WARN]: Fetching packet for removed entity atx['Cactus'/24962, l='world', x=93.27, y=16.94, z=-51.87]
+[21:28:40] [Server thread/WARN]: MadVesayt moved too quickly! 10.102029393761072,0.0,0.026822501319031744
