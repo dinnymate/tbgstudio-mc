@@ -1574,6 +1574,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2019-11-19 17:31:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2019-09-26 17:20:32 +0200"
@@ -1940,6 +1946,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2019-11-19 17:56:37 +0100",
       "minecraft:cow": "2019-09-26 15:26:08 +0200",
       "minecraft:chicken": "2019-09-26 17:12:07 +0200"
     },

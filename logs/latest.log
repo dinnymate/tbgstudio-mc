@@ -1,55 +1,63 @@
-[20:32:38] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:32:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:32:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:32:38] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:32:38] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:32:38] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[20:32:38] [Server thread/INFO]: Loading properties
-[20:32:38] [Server thread/INFO]: Default game type: SURVIVAL
-[20:32:38] [Server thread/INFO]: Generating keypair
-[20:32:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:32:39] [Server thread/INFO]: Using epoll channel type
-[20:32:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:32:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:32:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:32:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:32:39] [Server thread/INFO]: Preparing level "world"
-[20:32:39] [Server thread/INFO]: Reloading ResourceManager: Default
-[20:32:40] [Server thread/INFO]: Loaded 6 recipes
-[20:32:40] [Server thread/INFO]: Loaded 811 advancements
-[20:32:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:32:43] [Server thread/INFO]: Preparing spawn area: 0%
-[20:32:43] [Server thread/INFO]: Preparing spawn area: 0%
-[20:32:43] [Server thread/INFO]: Preparing spawn area: 0%
-[20:32:43] [Server thread/INFO]: Preparing spawn area: 0%
-[20:32:43] [Server thread/INFO]: Preparing spawn area: 0%
-[20:32:46] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[20:32:46] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[20:32:46] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[20:32:46] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[20:32:46] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[20:32:46] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[20:32:47] [Server thread/INFO]: Time elapsed: 5598 ms
-[20:32:47] [Server thread/INFO]: Done (7.899s)! For help, type "help"
-[20:32:52] [Server thread/INFO]: somnoveny[/0:0:0:0:0:0:0:1%0:45928] logged in with entity id 515 at (92.92309986290216, 11.0, -72.01839774569393)
-[20:32:52] [Server thread/INFO]: somnoveny joined the game
-[20:32:53] [Server thread/INFO]: Tafina[/0:0:0:0:0:0:0:1%0:45930] logged in with entity id 516 at (91.41773060891971, 11.0, -72.91974851061173)
-[20:32:53] [Server thread/INFO]: Tafina joined the game
-[20:33:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/580, l='world', x=80.80, y=11.00, z=-138.86]
-[20:40:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2832, l='world', x=80.20, y=11.00, z=-130.74]
-[20:40:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2832, l='world', x=80.20, y=11.00, z=-130.74]
-[20:40:40] [Server thread/INFO]: [somnoveny: Stopping the server]
-[20:40:40] [Server thread/INFO]: Stopping server
-[20:40:40] [Server thread/INFO]: Saving players
-[20:40:40] [Server thread/INFO]: Tafina lost connection: Server closed
-[20:40:40] [Server thread/INFO]: Tafina left the game
-[20:40:40] [Server thread/INFO]: Saving worlds
-[20:40:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[20:40:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:40:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[20:40:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:40:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[20:40:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:40:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:40:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:40:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:08:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:08:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:08:35] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:08:35] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:08:35] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[17:08:35] [Server thread/INFO]: Loading properties
+[17:08:35] [Server thread/INFO]: Default game type: SURVIVAL
+[17:08:35] [Server thread/INFO]: Generating keypair
+[17:08:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:08:35] [Server thread/INFO]: Using epoll channel type
+[17:08:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:08:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:08:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:08:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:08:35] [Server thread/INFO]: Preparing level "world"
+[17:08:35] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:08:36] [Server thread/INFO]: Loaded 6 recipes
+[17:08:36] [Server thread/INFO]: Loaded 811 advancements
+[17:08:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:08:37] [Server thread/INFO]: Preparing spawn area: 0%
+[17:08:37] [Server thread/INFO]: Preparing spawn area: 0%
+[17:08:37] [Server thread/INFO]: Preparing spawn area: 0%
+[17:08:37] [Server thread/INFO]: Time elapsed: 1608 ms
+[17:08:37] [Server thread/INFO]: Done (2.110s)! For help, type "help"
+[17:11:08] [Server thread/INFO]: somnoveny[/127.0.0.1:49358] logged in with entity id 569 at (120.72839206871066, 11.0, -77.90641940752715)
+[17:11:08] [Server thread/INFO]: somnoveny joined the game
+[17:11:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6896ms or 137 ticks behind
+[17:12:39] [Server thread/INFO]: MadVesayt[/192.168.0.134:51925] logged in with entity id 858 at (122.62112573387293, 11.0, -95.53419916334403)
+[17:12:39] [Server thread/INFO]: MadVesayt joined the game
+[17:14:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1316, l='world', x=80.80, y=11.00, z=-131.54]
+[17:14:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1316, l='world', x=80.80, y=11.00, z=-131.54]
+[17:28:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3264ms or 65 ticks behind
+[17:29:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/8444, l='world', x=80.80, y=11.00, z=-131.54]
+[17:29:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/8444, l='world', x=80.80, y=11.00, z=-131.54]
+[17:29:50] [Server thread/INFO]: somnoveny was slain by Vex
+[17:29:55] [Server thread/WARN]: Fetching packet for removed entity atx['Cooked Chicken'/8663, l='world', x=120.88, y=18.01, z=-81.88]
+[17:29:55] [Server thread/WARN]: somnoveny moved too quickly! 46.19999998807907,-57.9999998,-14.5276530067828
+[17:30:22] [Server thread/INFO]: [somnoveny: Set the weather to clear]
+[17:30:42] [Server thread/INFO]: somnoveny was slain by Ravager
+[17:30:44] [Server thread/WARN]: somnoveny moved too quickly! 36.333205260379344,-57.9999998,-8.633956597015398
+[17:31:52] [Server thread/INFO]: somnoveny has completed the challenge [Hero of the Village]
+[17:42:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/16015, l='world', x=80.20, y=11.00, z=-136.95]
+[17:42:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/16015, l='world', x=80.20, y=11.00, z=-136.95]
+[18:20:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30974, l='world', x=80.80, y=11.00, z=-139.80]
+[18:26:20] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/33003, l='world', x=80.20, y=11.00, z=-132.47]
+[18:34:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/36588, l='world', x=80.20, y=11.00, z=-139.32]
+[18:40:02] [Server thread/INFO]: MadVesayt lost connection: Disconnected
+[18:40:02] [Server thread/INFO]: MadVesayt left the game
+[18:40:06] [Server thread/INFO]: [somnoveny: Stopping the server]
+[18:40:06] [Server thread/INFO]: Stopping server
+[18:40:09] [Server thread/INFO]: Saving players
+[18:40:11] [Server thread/INFO]: somnoveny lost connection: Internal Exception: java.lang.StackOverflowError
+[18:40:11] [Server thread/INFO]: somnoveny left the game
+[18:40:11] [Server thread/INFO]: Saving worlds
+[18:40:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[18:40:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:40:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[18:40:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:40:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[18:40:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:40:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:40:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:40:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
