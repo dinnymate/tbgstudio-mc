@@ -1,45 +1,192 @@
-[00:13:48] [Server thread/WARN]: Fetching packet for removed entity atx['Cactus'/39723, l='world', x=93.13, y=16.94, z=-51.54]
-[00:16:54] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/41331, l='world', x=88.80, y=12.00, z=-84.20]
-[00:28:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/47056, l='world', x=88.20, y=12.00, z=-84.20]
-[00:30:17] [Server thread/WARN]: Fetching packet for removed entity atx['Cactus'/47653, l='world', x=93.13, y=16.94, z=-51.87]
-[00:36:15] [Server thread/INFO]: [somnoveny: Set own game mode to Creative Mode]
-[00:36:15] [Server thread/INFO]: [somnoveny: Set own game mode to Spectator Mode]
-[00:37:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/50888, l='world', x=88.20, y=12.00, z=-84.80]
-[00:37:34] [Server thread/INFO]: [somnoveny: Set own game mode to Survival Mode]
-[00:39:24] [Server thread/WARN]: Fetching packet for removed entity atx['Cactus'/52120, l='world', x=93.88, y=16.94, z=-51.87]
-[00:42:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/53775, l='world', x=80.80, y=11.00, z=-139.35]
-[00:45:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/55567, l='world', x=80.20, y=11.00, z=-119.68]
-[00:47:48] [Server thread/INFO]: [somnoveny: Set own game mode to Creative Mode]
-[00:47:49] [Server thread/INFO]: [somnoveny: Set own game mode to Spectator Mode]
-[00:48:08] [Server thread/WARN]: Fetching packet for removed entity atx['Egg'/56676, l='world', x=96.86, y=15.16, z=-88.74]
-[00:52:05] [Server thread/WARN]: somnoveny moved too quickly! 7.157975645400825,0.0,-8.12654880597809
-[00:53:06] [Server thread/INFO]: [somnoveny: Set own game mode to Survival Mode]
-[01:02:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63772, l='world', x=80.80, y=11.00, z=-139.80]
-[01:05:42] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/65394, l='world', x=80.29, y=19.00, z=-95.20]
-[01:25:54] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69491, l='world', x=88.80, y=12.00, z=-84.20]
-[01:34:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/74610, l='world', x=96.80, y=15.00, z=-88.20]
-[01:34:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/74961, l='world', x=96.20, y=15.00, z=-88.20]
-[01:36:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/76080, l='world', x=96.80, y=15.00, z=-88.20]
-[01:37:28] [Server thread/WARN]: Fetching packet for removed entity atx['Cactus'/76756, l='world', x=93.48, y=16.94, z=-51.73]
-[01:41:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/78931, l='world', x=80.80, y=17.00, z=-96.20]
-[01:42:36] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/79523, l='world', x=93.78, y=15.00, z=-50.97]
-[01:50:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/83897, l='world', x=57.82, y=20.00, z=-74.95]
-[01:50:49] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/84028, l='world', x=57.20, y=20.00, z=-74.20]
-[01:51:20] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/84299, l='world', x=79.75, y=17.00, z=-96.98]
-[02:08:59] [Server thread/INFO]: somnoveny lost connection: Disconnected
-[02:08:59] [Server thread/INFO]: somnoveny left the game
-[02:10:10] [Server thread/INFO]: Unknown command
-[02:10:10] [Server thread/INFO]: 	stop<--[HERE]
-[02:10:19] [Server thread/INFO]: Stopping the server
-[02:10:19] [Server thread/INFO]: Stopping server
-[02:10:19] [Server thread/INFO]: Saving players
-[02:10:19] [Server thread/INFO]: Saving worlds
-[02:10:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[02:10:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:10:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[02:10:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:10:20] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[02:10:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:10:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:10:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:10:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:09:13] [Server thread/INFO]: Loading properties
+[19:09:13] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-cbd1a1b-009d8af (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+[19:09:14] [Server thread/INFO]: Debug logging is disabled
+[19:09:14] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:09:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:09:14] [Server thread/INFO]: Default game type: SURVIVAL
+[19:09:14] [Server thread/INFO]: Generating keypair
+[19:09:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:09:14] [Server thread/INFO]: Using default channel type
+[19:09:19] [Server thread/WARN]: Plugin SimpleBackup v1.8 does not specify an api-version.
+[19:09:19] [Server thread/INFO]: [SimpleBackup] Loading SimpleBackup v1.8
+[19:09:19] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.8.3
+[19:09:19] [Server thread/INFO]: [TabTPS] Loading TabTPS v1.1.0
+[19:09:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:09:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:09:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:09:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:09:19] [Server thread/INFO]: Preparing level "world"
+[19:09:20] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[19:09:21] [Server thread/INFO]: Loaded 6 recipes
+[19:09:21] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:09:21] [Server thread/INFO]: View Distance: 10
+[19:09:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:09:21] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:09:21] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:09:21] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:09:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:09:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:09:21] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:09:21] [Server thread/INFO]: Mob Spawn Range: 6
+[19:09:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:09:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[19:09:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:09:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:09:21] [Server thread/INFO]: Max TNT Explosions: 100
+[19:09:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:09:21] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:09:21] [Server thread/INFO]: View Distance: 10
+[19:09:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:09:21] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:09:21] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:09:21] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:09:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:09:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:09:21] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:09:21] [Server thread/INFO]: Mob Spawn Range: 6
+[19:09:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:09:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[19:09:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:09:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:09:21] [Server thread/INFO]: Max TNT Explosions: 100
+[19:09:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:09:21] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:09:21] [Server thread/INFO]: View Distance: 10
+[19:09:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:09:21] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:09:21] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:09:21] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:09:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:09:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:09:21] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:09:21] [Server thread/INFO]: Mob Spawn Range: 6
+[19:09:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:09:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:09:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[19:09:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:09:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:09:21] [Server thread/INFO]: Max TNT Explosions: 100
+[19:09:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:09:21] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[19:09:22] [Server thread/INFO]: Preparing spawn area: 0%
+[19:09:22] [Server thread/INFO]: Preparing spawn area: 0%
+[19:09:22] [Server thread/INFO]: Preparing spawn area: 0%
+[19:09:23] [Server thread/INFO]: Time elapsed: 1472 ms
+[19:09:23] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[19:09:23] [Server thread/INFO]: Preparing spawn area: 0%
+[19:09:23] [Server thread/INFO]: Preparing spawn area: 0%
+[19:09:24] [Server thread/INFO]: Time elapsed: 1028 ms
+[19:09:24] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[19:09:24] [Server thread/INFO]: Preparing spawn area: 0%
+[19:09:24] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[19:09:25] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[19:09:25] [Server thread/INFO]: Time elapsed: 1400 ms
+[19:09:25] [Server thread/INFO]: [SimpleBackup] Enabling SimpleBackup v1.8
+[19:09:25] [Server thread/INFO]: [SimpleBackup] Worlds [CraftWorld{name=world}, CraftWorld{name=world_nether}, CraftWorld{name=world_the_end}] scheduled for backup.
+[19:09:25] [Server thread/INFO]: [SimpleBackup] Backup scheduled starting in 1.0 hours, repeat interval: 1.0 hours
+[19:09:25] [Server thread/INFO]: [SimpleBackup] Enabled.
+[19:09:25] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.8.3
+[19:09:25] [Server thread/INFO]: [SkinsRestorer] Failed PaperSkinRefresher
+[19:09:25] [Server thread/INFO]: [SkinsRestorer] Using SpigotSkinRefresher
+[19:09:25] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected Minecraft [0;33;1mv1_14_R1[0;32;1m, using [0;33;1mUniversalSkinFactory[0;32;1m.[m
+[19:09:26] [Server thread/INFO]: [TabTPS] Enabling TabTPS v1.1.0
+[19:09:27] [Server thread/INFO]: [TabTPS] Loaded NMS support for v1_14_R1
+[19:09:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:09:27] [Server thread/INFO]: Done (7.416s)! For help, type "help"
+[19:09:27] [Craft Scheduler Thread - 0/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
+[19:09:27] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[19:09:27] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[19:09:27] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    | SkinsRestorer |[m
+[19:09:27] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[19:09:27] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[19:09:27] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;36;1m    Current version: [0;31;1m13.8.3[m
+[19:09:27] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m]     A new version is available! Downloading it now...[m
+[19:09:27] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m]     Update downloaded successfully, it will be applied on the next restart.[m
+[19:09:27] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[19:09:27] [Craft Scheduler Thread - 2/INFO]: [TabTPS] [!] You are running an outdated version of TabTPS (1.1.0) [!]
+[19:09:27] [Craft Scheduler Thread - 2/INFO]: [TabTPS] Version 1.1.2 is available at https://www.spigotmc.org/resources/tabtps.82528/
+[19:09:30] [Craft Scheduler Thread - 0/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as plugins\update\SkinsRestorer.jar
+[19:10:13] [User Authenticator #1/INFO]: UUID of player somnoveny is 2b393a76-5c9d-3250-94c4-198bf24b7976
+[19:10:14] [Server thread/INFO]: somnoveny[/127.0.0.1:58863] logged in with entity id 641 at ([world]67.35925671289354, 11.0, -78.29348644737114)
+[19:11:01] [Server thread/INFO]: somnoveny issued server command: /help
+[19:15:40] [User Authenticator #2/INFO]: UUID of player somCam is cb2d0b5a-7c2c-319f-890b-56cb5e7cbce3
+[19:15:40] [Server thread/INFO]: somCam[/192.168.137.91:61350] logged in with entity id 1733 at ([world]125.5, 68.0, -71.5)
+[19:16:25] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[19:16:25] [Server thread/INFO]: ...tor somCamú<--[HERE]
+[19:16:35] [Server thread/INFO]: Incorrect argument for command
+[19:16:35] [Server thread/INFO]: /gamemode somCam spectator<--[HERE]
+[19:16:54] [Server thread/INFO]: somnoveny issued server command: /gamemode spectator somCam
+[19:16:54] [Server thread/INFO]: [somnoveny: Set somCam's game mode to Spectator Mode]
+[19:17:56] [Server thread/INFO]: somnoveny issued server command: /op
+[19:18:05] [Server thread/INFO]: somnoveny issued server command: /help op
+[19:18:24] [Server thread/INFO]: somnoveny lost connection: Disconnected
+[19:18:24] [Server thread/INFO]: somnoveny left the game
+[19:18:25] [Server thread/INFO]: somCam lost connection: Disconnected
+[19:18:25] [Server thread/INFO]: somCam left the game
+[19:19:26] [Server thread/INFO]: Made somCam a server operator
+[19:19:46] [Server thread/INFO]: Made somCam no longer a server operator
+[19:20:00] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:20:01] [Server thread/INFO]: Stopping the server
+[19:20:01] [Server thread/INFO]: Stopping server
+[19:20:01] [Server thread/INFO]: [TabTPS] Disabling TabTPS v1.1.0
+[19:20:01] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v13.8.3
+[19:20:01] [Server thread/INFO]: [SimpleBackup] Disabling SimpleBackup v1.8
+[19:20:01] [Server thread/INFO]: [SimpleBackup] Disabled SimpleBackup
+[19:20:01] [Server thread/INFO]: Saving players
+[19:20:01] [Server thread/INFO]: Saving worlds
+[19:20:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:20:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:20:02] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[19:20:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:20:02] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[19:20:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:20:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:20:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:20:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
