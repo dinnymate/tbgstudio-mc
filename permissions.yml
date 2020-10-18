@@ -1,0 +1,6 @@
+server.basics:
+       description: Basic permissions for My Cool Server.
+       default: true
+       children:
+              tabtps.tps: true
+              tabtps.toggle: true
